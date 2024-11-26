@@ -1,0 +1,32 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    align-items: center;
+
+}
+body{
+    background-color:#EEDAE5 ;
+}
+header{
+    font-size: 30px;
+    text-align: center;
+}
+.per{
+    margin-left: 10px;
+    font-weight: bolder;
+}
+.esp{
+    margin-left: 30px ;
+}
+.res{
+    margin-left: 10px;
+}
+section{
+    border: solid 2px #000;
+    border-radius: 12px;
+    margin: 20px;
+    background-color:white ;
+
+}
+img{
+    margin: 10px;
+}
